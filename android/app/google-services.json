@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "232514177265",
+    "firebase_url": "https://thenotesapp-97c49-default-rtdb.firebaseio.com",
+    "project_id": "thenotesapp-97c49",
+    "storage_bucket": "thenotesapp-97c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232514177265:android:c9b8785c75d2c69dcdc150",
+        "android_client_info": {
+          "package_name": "com.secretnotesapp.secret_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5APnLDOK0d2ZFUnY2CDyYtE1Gv_qCWDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

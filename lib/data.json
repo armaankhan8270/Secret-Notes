@@ -1,0 +1,792 @@
+[
+    {
+        "title": "Atomic Physics",
+        "subject": "Physics",
+        "img": "atomic_physics.jpg",
+        "content": "Atomic physics investigates the structure and behavior of atoms and their components."
+    },
+    {
+        "title": "Cell Biology",
+        "subject": "Biology",
+        "img": "cell_biology.jpg",
+        "content": "Cell biology focuses on the structure and function of cells, the basic units of life."
+    },
+    {
+        "title": "Romeo and Juliet",
+        "subject": "English Literature",
+        "img": "romeo_juliet.jpg",
+        "content": "Romeo and Juliet is a tragic play by William Shakespeare about two young lovers from feuding families."
+    },
+    {
+        "title": "World War II",
+        "subject": "History",
+        "img": "world_war_ii.jpg",
+        "content": "World War II was a global conflict that took place from 1939 to 1945, involving many countries."
+    },
+    {
+        "title": "Chemical Reactions",
+        "subject": "Chemistry",
+        "img": "chemical_reactions.jpg",
+        "content": "Chemical reactions involve the transformation of substances into new substances through chemical processes."
+    },
+    {
+        "title": "Computer Programming",
+        "subject": "Computer Science",
+        "img": "programming.jpg",
+        "content": "Computer programming is the process of writing, testing, and maintaining code for software applications."
+    },
+    {
+        "title": "Environmental Conservation",
+        "subject": "Environmental Science",
+        "img": "environmental_conservation.jpg",
+        "content": "Environmental conservation aims to protect and preserve natural resources and ecosystems."
+    },
+    {
+        "title": "Geometry",
+        "subject": "Mathematics",
+        "img": "geometry.jpg",
+        "content": "Geometry deals with the properties and relationships of shapes, lines, and angles."
+    },
+    {
+        "title": "Spanish Language",
+        "subject": "Foreign Language",
+        "img": "spanish_language.jpg",
+        "content": "Learning Spanish involves studying the language, culture, and history of Spanish-speaking countries."
+    },
+    {
+        "title": "Art History",
+        "subject": "Art",
+        "img": "art_history.jpg",
+        "content": "Art history explores the development and significance of artistic movements and works of art."
+    },
+    {
+        "title": "Atomic Physics",
+        "subject": "Physics",
+        "img": "atomic_physics.jpg",
+        "content": "Atomic physics investigates the structure and behavior of atoms and their components."
+    },
+    {
+        "title": "Advanced Topics in Atomic Physics",
+        "subject": "Physics",
+        "img": "advanced_atomic_physics.jpg",
+        "content": "This course explores advanced concepts and research in atomic physics."
+    },
+    {
+        "title": "Quantum Mechanics",
+        "subject": "Physics",
+        "img": "quantum_mechanics.jpg",
+        "content": "Quantum mechanics is a fundamental theory in atomic physics."
+    },
+    {
+        "title": "Nuclear Reactions",
+        "subject": "Physics",
+        "img": "nuclear_reactions.jpg",
+        "content": "This topic covers the study of nuclear reactions and their applications."
+    },
+    {
+        "title": "Atomic Spectroscopy",
+        "subject": "Physics",
+        "img": "atomic_spectroscopy.jpg",
+        "content": "Atomic spectroscopy is used to analyze the spectra of atoms and ions."
+    },
+    {
+        "title": "Atomic Structure",
+        "subject": "Physics",
+        "img": "atomic_structure.jpg",
+        "content": "Understanding the atomic structure is key to atomic physics."
+    },
+    {
+        "title": "Atomic Energy Levels",
+        "subject": "Physics",
+        "img": "atomic_energy_levels.jpg",
+        "content": "Atomic energy levels play a crucial role in atomic physics calculations."
+    },
+    {
+        "title": "Quantum States of Atoms",
+        "subject": "Physics",
+        "img": "quantum_states_of_atoms.jpg",
+        "content": "This topic delves into the quantum states of atoms and electron behavior."
+    },
+    {
+        "title": "Atomic Forces",
+        "subject": "Physics",
+        "img": "atomic_forces.jpg",
+        "content": "Atomic forces govern interactions between particles at the atomic scale."
+    },
+    {
+        "title": "Atomic Physics Experiments",
+        "subject": "Physics",
+        "img": "atomic_physics_experiments.jpg",
+        "content": "Explore practical experiments and applications in atomic physics."
+    },
+    {
+        "title": "Cell Biology",
+        "subject": "Biology",
+        "img": "cell_biology.jpg",
+        "content": "Cell biology focuses on the structure and function of cells, the basic units of life."
+    },
+    {
+        "title": "Romeo and Juliet",
+        "subject": "English Literature",
+        "img": "romeo_juliet.jpg",
+        "content": "Romeo and Juliet is a tragic play by William Shakespeare about two young lovers from feuding families."
+    },
+    {
+        "title": "World War II",
+        "subject": "History",
+        "img": "world_war_ii.jpg",
+        "content": "World War II was a global conflict that took place from 1939 to 1945, involving many countries."
+    },
+    {
+        "title": "Computer Programming",
+        "subject": "Computer Science",
+        "img": "programming.jpg",
+        "content": "Computer programming is the process of writing, testing, and maintaining code for software applications."
+    },
+    {
+        "title": "Geometry",
+        "subject": "Mathematics",
+        "img": "geometry.jpg",
+        "content": "Geometry deals with the properties and relationships of shapes, lines, and angles."
+    },
+    {
+        "title": "Environmental Conservation",
+        "subject": "Environmental Science",
+        "img": "environmental_conservation.jpg",
+        "content": "Environmental conservation aims to protect and preserve natural resources and ecosystems."
+    },
+    {
+        "title": "Macbeth",
+        "subject": "English Literature",
+        "img": "macbeth.jpg",
+        "content": "Macbeth is a tragedy by William Shakespeare, exploring themes of ambition and power."
+    },
+    {
+        "title": "Chemical Reactions",
+        "subject": "Chemistry",
+        "img": "chemical_reactions.jpg",
+        "content": "Chemical reactions involve the transformation of substances into new substances through chemical processes."
+    },
+    {
+        "title": "American Revolution",
+        "subject": "History",
+        "img": "american_revolution.jpg",
+        "content": "The American Revolution was a pivotal event in U.S. history, leading to independence from Britain."
+    },
+    {
+        "title": "Introduction to Programming",
+        "subject": "Computer Science",
+        "img": "intro_to_programming.jpg",
+        "content": "An introduction to the fundamentals of programming and algorithmic thinking."
+    },
+    {
+        "title": "Art History",
+        "subject": "Art",
+        "img": "art_history.jpg",
+        "content": "Art history explores the development and significance of artistic movements and works of art."
+    },
+    {
+        "title": "Geography of Europe",
+        "subject": "Geography",
+        "img": "geography_of_europe.jpg",
+        "content": "A study of the physical and human geography of the continent of Europe."
+    },
+    {
+        "title": "Psychology Basics",
+        "subject": "Psychology",
+        "img": "psychology_basics.jpg",
+        "content": "An introduction to the fundamental concepts and theories of psychology."
+    },
+    {
+        "title": "French Language",
+        "subject": "Foreign Language",
+        "img": "french_language.jpg",
+        "content": "Learning the French language, its culture, and communication skills."
+    },
+    {
+        "title": "Statistics",
+        "subject": "Mathematics",
+        "img": "statistics.jpg",
+        "content": "Statistics involves the collection, analysis, interpretation, and presentation of data."
+    },
+    {
+        "title": "Chemical Bonding",
+        "subject": "Chemistry",
+        "img": "chemical_bonding.jpg",
+        "content": "Chemical bonding explains how atoms combine to form molecules and compounds."
+    },
+    {
+        "title": "Shakespearean Sonnets",
+        "subject": "English Literature",
+        "img": "shakespearean_sonnets.jpg",
+        "content": "Exploring the poetic works of William Shakespeare, including his famous sonnets."
+    },
+    {
+        "title": "Ancient Egypt",
+        "subject": "History",
+        "img": "ancient_egypt.jpg",
+        "content": "A study of the history, culture, and civilization of ancient Egypt along the Nile River."
+    },
+    {
+        "title": "Web Development",
+        "subject": "Computer Science",
+        "img": "web_development.jpg",
+        "content": "Web development involves creating websites and web applications using coding and design skills."
+    },
+    {
+        "title": "Renaissance Art",
+        "subject": "Art",
+        "img": "renaissance_art.jpg",
+        "content": "The art and artists of the Renaissance period, characterized by creativity and innovation."
+    },
+    {
+        "title": "Weather and Climate",
+        "subject": "Geography",
+        "img": "weather_and_climate.jpg",
+        "content": "Exploring the dynamics of weather patterns, climate zones, and atmospheric phenomena."
+    },
+    {
+        "title": "Abnormal Psychology",
+        "subject": "Psychology",
+        "img": "abnormal_psychology.jpg",
+        "content": "An in-depth study of psychological disorders and their treatment."
+    },
+    {
+        "title": "Japanese Language",
+        "subject": "Foreign Language",
+        "img": "japanese_language.jpg",
+        "content": "Learning the Japanese language, culture, and communication in Japanese society."
+    },
+    {
+        "title": "Calculus",
+        "subject": "Mathematics",
+        "img": "calculus.jpg",
+        "content": "Calculus is a branch of mathematics that studies rates of change and accumulation."
+    },
+    {
+        "title": "Ecology",
+        "subject": "Biology",
+        "img": "ecology.jpg",
+        "content": "Ecology focuses on the study of interactions between organisms and their environments."
+    },
+    {
+        "title": "Genetics",
+        "subject": "Biology",
+        "img": "genetics.jpg",
+        "content": "Genetics is the study of genes, heredity, and variations in living organisms."
+    },
+    {
+        "title": "Literary Analysis",
+        "subject": "English Literature",
+        "img": "literary_analysis.jpg",
+        "content": "Literary analysis explores the themes, symbols, and techniques used in literature."
+    },
+    {
+        "title": "Ancient Greece",
+        "subject": "History",
+        "img": "ancient_greece.jpg",
+        "content": "A study of the history, culture, and contributions of ancient Greece to civilization."
+    },
+    {
+        "title": "Database Management",
+        "subject": "Computer Science",
+        "img": "database_management.jpg",
+        "content": "Database management involves organizing and maintaining structured data for efficient retrieval."
+    },
+    {
+        "title": "Modern Art",
+        "subject": "Art",
+        "img": "modern_art.jpg",
+        "content": "Modern art encompasses artistic movements from the late 19th to the mid-20th century."
+    },
+    {
+        "title": "Cultural Geography",
+        "subject": "Geography",
+        "img": "cultural_geography.jpg",
+        "content": "Cultural geography examines the relationship between cultures and their physical environments."
+    },
+    {
+        "title": "Cognitive Psychology",
+        "subject": "Psychology",
+        "img": "cognitive_psychology.jpg",
+        "content": "Cognitive psychology studies mental processes, including memory, perception, and reasoning."
+    },
+    {
+        "title": "Spanish Literature",
+        "subject": "Foreign Language",
+        "img": "spanish_literature.jpg",
+        "content": "Exploring the literature of Spanish-speaking countries and their cultural impact."
+    },
+    {
+        "title": "Trigonometry",
+        "subject": "Mathematics",
+        "img": "trigonometry.jpg",
+        "content": "Trigonometry deals with the study of angles and their relationships in geometry."
+    },
+    {
+        "title": "Astronomy",
+        "subject": "Science",
+        "img": "astronomy.jpg",
+        "content": "Astronomy explores celestial objects, the universe, and the cosmos beyond Earth."
+    },
+    {
+        "title": "Plant Biology",
+        "subject": "Biology",
+        "img": "plant_biology.jpg",
+        "content": "Plant biology focuses on the study of plant life, growth, and development."
+    },
+    {
+        "title": "Shakespearean Drama",
+        "subject": "English Literature",
+        "img": "shakespearean_drama.jpg",
+        "content": "Exploring Shakespeare's plays and their impact on English literature."
+    },
+    {
+        "title": "Ancient Rome",
+        "subject": "History",
+        "img": "ancient_rome.jpg",
+        "content": "A study of the history, culture, and achievements of ancient Rome."
+    },
+    {
+        "title": "Data Structures",
+        "subject": "Computer Science",
+        "img": "data_structures.jpg",
+        "content": "Data structures are fundamental concepts for organizing and managing data."
+    },
+    {
+        "title": "Renaissance Music",
+        "subject": "Music",
+        "img": "renaissance_music.jpg",
+        "content": "Renaissance music and its contribution to the evolution of musical styles."
+    },
+    {
+        "title": "Urban Geography",
+        "subject": "Geography",
+        "img": "urban_geography.jpg",
+        "content": "Urban geography explores cities, urbanization, and their social and spatial dynamics."
+    },
+    {
+        "title": "Developmental Psychology",
+        "subject": "Psychology",
+        "img": "developmental_psychology.jpg",
+        "content": "Developmental psychology studies human growth and development across the lifespan."
+    },
+    {
+        "title": "Chinese Language",
+        "subject": "Foreign Language",
+        "img": "chinese_language.jpg",
+        "content": "Learning the Chinese language, characters, and cultural nuances."
+    },
+    {
+        "title": "Differential Equations",
+        "subject": "Mathematics",
+        "img": "differential_equations.jpg",
+        "content": "Differential equations describe rates of change and are widely used in science and engineering."
+    },
+    {
+        "title": "Chemical Reactions in Biology",
+        "subject": "Science",
+        "img": "chemical_reactions_in_biology.jpg",
+        "content": "Exploring the chemical processes within living organisms and biological systems."
+    },
+    {
+        "title": "Ecological Conservation",
+        "subject": "Environmental Science",
+        "img": "ecological_conservation.jpg",
+        "content": "Ecological conservation focuses on preserving ecosystems and biodiversity."
+    },
+    {
+        "title": "American Literature",
+        "subject": "English Literature",
+        "img": "american_literature.jpg",
+        "content": "American literature explores the works of American authors and their cultural context."
+    },
+    {
+        "title": "Medieval History",
+        "subject": "History",
+        "img": "medieval_history.jpg",
+        "content": "Medieval history examines the Middle Ages, a period of significant social and political change."
+    },
+    {
+        "title": "Art Appreciation",
+        "subject": "Art",
+        "img": "art_appreciation.jpg",
+        "content": "Art appreciation involves understanding and evaluating various forms of art."
+    },
+    {
+        "title": "Climatology",
+        "subject": "Geography",
+        "img": "climatology.jpg",
+        "content": "Climatology studies climate patterns, weather systems, and global climate change."
+    },
+    {
+        "title": "Social Psychology",
+        "subject": "Psychology",
+        "img": "social_psychology.jpg",
+        "content": "Social psychology explores how individuals are influenced by their social environments."
+    },
+    {
+        "title": "Russian Language",
+        "subject": "Foreign Language",
+        "img": "russian_language.jpg",
+        "content": "Learning the Russian language, Cyrillic script, and Russian culture."
+    },
+    {
+        "title": "Linear Algebra",
+        "subject": "Mathematics",
+        "img": "linear_algebra.jpg",
+        "content": "Linear algebra deals with vectors, matrices, and linear transformations."
+    },
+    {
+        "title": "Astrophysics",
+        "subject": "Physics",
+        "img": "astrophysics.jpg",
+        "content": "Astrophysics explores the physical properties and phenomena of celestial objects and the universe."
+    },
+    {
+        "title": "Molecular Biology",
+        "subject": "Biology",
+        "img": "molecular_biology.jpg",
+        "content": "Molecular biology studies the structure and function of biological molecules like DNA and proteins."
+    },
+    {
+        "title": "Ecological Conservation",
+        "subject": "Environmental Science",
+        "img": "ecological_conservation.jpg",
+        "content": "Ecological conservation focuses on preserving ecosystems and biodiversity."
+    },
+    {
+        "title": "American Literature",
+        "subject": "English Literature",
+        "img": "american_literature.jpg",
+        "content": "American literature explores the works of American authors and their cultural context."
+    },
+    {
+        "title": "Medieval History",
+        "subject": "History",
+        "img": "medieval_history.jpg",
+        "content": "Medieval history examines the Middle Ages, a period of significant social and political change."
+    },
+    {
+        "title": "Art Appreciation",
+        "subject": "Art",
+        "img": "art_appreciation.jpg",
+        "content": "Art appreciation involves understanding and evaluating various forms of art."
+    },
+    {
+        "title": "Climatology",
+        "subject": "Geography",
+        "img": "climatology.jpg",
+        "content": "Climatology studies climate patterns, weather systems, and global climate change."
+    },
+    {
+        "title": "Social Psychology",
+        "subject": "Psychology",
+        "img": "social_psychology.jpg",
+        "content": "Social psychology explores how individuals are influenced by their social environments."
+    },
+    {
+        "title": "Russian Language",
+        "subject": "Foreign Language",
+        "img": "russian_language.jpg",
+        "content": "Learning the Russian language, Cyrillic script, and Russian culture."
+    },
+    {
+        "title": "Linear Algebra",
+        "subject": "Mathematics",
+        "img": "linear_algebra.jpg",
+        "content": "Linear algebra deals with vectors, matrices, and linear transformations."
+    },
+    {
+        "title": "Astrophysics",
+        "subject": "Physics",
+        "img": "astrophysics.jpg",
+        "content": "Astrophysics explores the physical properties and phenomena of celestial objects and the universe."
+    },
+    {
+        "title": "Molecular Biology",
+        "subject": "Biology",
+        "img": "molecular_biology.jpg",
+        "content": "Molecular biology studies the structure and function of biological molecules like DNA and proteins."
+    },
+    {
+        "title": "Environmental Ethics",
+        "subject": "Philosophy",
+        "img": "environmental_ethics.jpg",
+        "content": "Environmental ethics examines the moral and ethical aspects of human interactions with the environment."
+    },
+    {
+        "title": "Renaissance Art",
+        "subject": "Art History",
+        "img": "renaissance_art.jpg",
+        "content": "Renaissance art explores the art and cultural movements of the Renaissance period."
+    },
+    {
+        "title": "Political Science",
+        "subject": "Social Sciences",
+        "img": "political_science.jpg",
+        "content": "Political science studies government structures, political behavior, and international relations."
+    },
+    {
+        "title": "Neuroscience",
+        "subject": "Biology",
+        "img": "neuroscience.jpg",
+        "content": "Neuroscience investigates the structure and function of the nervous system and the brain."
+    },
+    {
+        "title": "Astronomy",
+        "subject": "Science",
+        "img": "astronomy.jpg",
+        "content": "Astronomy focuses on the observation and study of celestial objects, stars, and galaxies."
+    },
+    {
+        "title": "Ancient Civilizations",
+        "subject": "History",
+        "img": "ancient_civilizations.jpg",
+        "content": "Ancient civilizations delve into the history and cultures of ancient societies such as Egypt, Greece, and Rome."
+    },
+    {
+        "title": "Environmental Engineering",
+        "subject": "Engineering",
+        "img": "environmental_engineering.jpg",
+        "content": "Environmental engineering involves designing solutions to environmental problems and sustainable practices."
+    },
+    {
+        "title": "Cognitive Psychology",
+        "subject": "Psychology",
+        "img": "cognitive_psychology.jpg",
+        "content": "Cognitive psychology studies mental processes, including perception, memory, and problem-solving."
+    },
+    {
+        "title": "World Geography",
+        "subject": "Geography",
+        "img": "world_geography.jpg",
+        "content": "World geography explores the physical and cultural geography of different regions around the world."
+    },
+    {
+        "title": "Literary Theory",
+        "subject": "English Literature",
+        "img": "literary_theory.jpg",
+        "content": "Literary theory examines various approaches to interpreting and analyzing literature."
+    },
+    {
+        "title": "Environmental Ethics",
+        "subject": "Philosophy",
+        "content": "Environmental ethics delves into the moral and ethical considerations surrounding our interactions with the environment and non-human entities."
+    },
+    {
+        "title": "World History",
+        "subject": "History",
+        "content": "World history encompasses the study of global events and their impact on societies throughout different time periods."
+    },
+    {
+        "title": "Contemporary Art",
+        "subject": "Art",
+        "content": "Contemporary art focuses on the art produced in the present day, reflecting current cultural, social, and political contexts."
+    },
+    {
+        "title": "Political Science",
+        "subject": "Social Science",
+        "content": "Political science examines the theory and practice of politics, government systems, and political behavior."
+    },
+    {
+        "title": "Quantum Mechanics",
+        "subject": "Physics",
+        "content": "Quantum mechanics is a fundamental theory in physics that deals with the behavior of matter and energy at the smallest scales."
+    },
+    {
+        "title": "Cognitive Psychology",
+        "subject": "Psychology",
+        "content": "Cognitive psychology explores mental processes such as memory, perception, and problem-solving."
+    },
+    {
+        "title": "French Literature",
+        "subject": "Foreign Language",
+        "content": "French literature covers the literary works of French authors throughout history, from classics to contemporary writings."
+    },
+    {
+        "title": "Economics",
+        "subject": "Social Science",
+        "content": "Economics studies the production, distribution, and consumption of goods and services, as well as economic systems and policies."
+    },
+    {
+        "title": "Environmental Geology",
+        "subject": "Geology",
+        "content": "Environmental geology focuses on understanding geological processes and their impact on the environment, including issues like natural disasters and resource management."
+    },
+    {
+        "title": "Cellular Biology",
+        "subject": "Biology",
+        "content": "Cellular biology investigates the structure and functions of cells, which are the building blocks of all living organisms."
+    },
+    {
+        "title": "Organic Chemistry",
+        "subject": "Chemistry",
+        "img": "organic_chemistry.jpg",
+        "content": "Organic chemistry focuses on the study of carbon compounds and their reactions."
+    },
+    {
+        "title": "Macroeconomics",
+        "subject": "Economics",
+        "img": "macroeconomics.jpg",
+        "content": "Macroeconomics deals with the study of the economy as a whole, including topics like GDP and inflation."
+    },
+    {
+        "title": "Shakespearean Tragedies",
+        "subject": "Drama",
+        "img": "shakespearean_tragedies.jpg",
+        "content": "Shakespearean tragedies include plays like Hamlet and Othello, known for their tragic themes."
+    },
+    {
+        "title": "Ancient Civilizations",
+        "subject": "Social Studies",
+        "img": "ancient_civilizations.jpg",
+        "content": "The study of ancient civilizations such as Mesopotamia, Egypt, and Greece."
+    },
+    {
+        "title": "Web Design",
+        "subject": "Computer Science",
+        "img": "web_design.jpg",
+        "content": "Web design involves creating visually appealing and functional websites."
+    },
+    {
+        "title": "Contemporary Art",
+        "subject": "Art",
+        "img": "contemporary_art.jpg",
+        "content": "Contemporary art encompasses art created in the present era, often reflecting current issues and trends."
+    },
+    {
+        "title": "Human Geography",
+        "subject": "Geography",
+        "img": "human_geography.jpg",
+        "content": "Human geography explores the relationships between people and their environments."
+    },
+    {
+        "title": "Counseling Psychology",
+        "subject": "Psychology",
+        "img": "counseling_psychology.jpg",
+        "content": "Counseling psychology focuses on helping individuals with mental and emotional challenges."
+    },
+    {
+        "title": "Japanese Literature",
+        "subject": "Foreign Language",
+        "img": "japanese_literature.jpg",
+        "content": "Exploring the literary works of Japan and their cultural significance."
+    },
+    {
+        "title": "Number Theory",
+        "subject": "Mathematics",
+        "img": "number_theory.jpg",
+        "content": "Number theory studies the properties and relationships of integers and prime numbers."
+    },
+    {
+        "title": "Sociology of Gender",
+        "subject": "Sociology",
+        "content": "Sociology of gender explores how societal norms, roles, and expectations shape and influence gender identity and behavior."
+    },
+    {
+        "title": "Ancient History",
+        "subject": "History",
+        "content": "Ancient history delves into the study of civilizations, events, and cultures of ancient times, including civilizations like the Egyptians, Greeks, and Romans."
+    },
+    {
+        "title": "Graphic Design",
+        "subject": "Art",
+        "content": "Graphic design involves the creative process of visual communication, combining art and technology to convey messages and ideas through images and layouts."
+    },
+    {
+        "title": "Microeconomics",
+        "subject": "Economics",
+        "content": "Microeconomics focuses on the behavior of individuals and firms in making decisions regarding resource allocation and pricing in markets."
+    },
+    {
+        "title": "Neuroscience",
+        "subject": "Biology",
+        "content": "Neuroscience studies the nervous system, including the brain and nervous tissue, to understand how it controls behavior, cognition, and bodily functions."
+    },
+    {
+        "title": "Political Philosophy",
+        "subject": "Philosophy",
+        "content": "Political philosophy explores the theoretical foundations of political systems, government, and the principles of justice and rights."
+    },
+    {
+        "title": "Astronomy",
+        "subject": "Science",
+        "content": "Astronomy is the study of celestial objects, such as stars, planets, and galaxies, and the universe's structure and evolution."
+    },
+    {
+        "title": "Cultural Anthropology",
+        "subject": "Anthropology",
+        "content": "Cultural anthropology examines the cultural beliefs, practices, and customs of different societies around the world."
+    },
+    {
+        "title": "Computer Programming",
+        "subject": "Computer Science",
+        "content": "Computer programming involves writing instructions for computers to perform tasks, creating software, and solving problems through coding."
+    },
+    {
+        "title": "Environmental Engineering",
+        "subject": "Engineering",
+        "content": "Environmental engineering focuses on designing and implementing solutions to address environmental challenges, such as pollution control and sustainable resource management."
+    },
+    {
+        "title": "Environmental Policy",
+        "subject": "Political Science",
+        "img": "environmental_policy.jpg",
+        "content": "Environmental policy focuses on the development and implementation of policies to address environmental issues."
+    },
+    {
+        "title": "Modern Art Movements",
+        "subject": "Art History",
+        "img": "modern_art_movements.jpg",
+        "content": "Modern art movements explore the artistic innovations and trends of the 20th and 21st centuries."
+    },
+    {
+        "title": "Economic Theory",
+        "subject": "Economics",
+        "img": "economic_theory.jpg",
+        "content": "Economic theory examines the principles and models that explain economic behavior and systems."
+    },
+    {
+        "title": "Marine Biology",
+        "subject": "Biology",
+        "img": "marine_biology.jpg",
+        "content": "Marine biology studies the diverse life forms and ecosystems of the world's oceans and seas."
+    },
+    {
+        "title": "Political Philosophy",
+        "subject": "Philosophy",
+        "img": "political_philosophy.jpg",
+        "content": "Political philosophy explores concepts of justice, power, and governance in society."
+    },
+    {
+        "title": "Quantum Physics",
+        "subject": "Physics",
+        "img": "quantum_physics.jpg",
+        "content": "Quantum physics investigates the behavior of matter and energy at the smallest scales."
+    },
+    {
+        "title": "Sociology of Gender",
+        "subject": "Sociology",
+        "img": "sociology_of_gender.jpg",
+        "content": "Sociology of gender examines the social and cultural aspects of gender roles and identities."
+    },
+    {
+        "title": "Italian Language",
+        "subject": "Foreign Language",
+        "img": "italian_language.jpg",
+        "content": "Learning the Italian language, its grammar, vocabulary, and Italian culture."
+    },
+    {
+        "title": "Differential Equations",
+        "subject": "Mathematics",
+        "img": "differential_equations.jpg",
+        "content": "Differential equations involve the study of equations containing derivatives and their applications."
+    },
+    {
+        "title": "Evolutionary Biology",
+        "subject": "Biology",
+        "img": "evolutionary_biology.jpg",
+        "content": "Evolutionary biology explores the processes and mechanisms of evolution and species diversity."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Empirical Study",
+        "subject": "Science",
+        "content": "Science relies on observation, experimentation, and evidence-based reasoning to understand the natural world.",
+        "img": "empirical_study.jpg"
+    },
+    {
+        "title": "Interdisciplinary Nature",
+        "subject": "Science",
+        "content": "Science encompasses various branches like physics, chemistry, biology, astronomy, and earth sciences, often leading to collaborative research.",
+        "img": "interdisciplinary_nature.jpg"
+    },
+    {
+        "title": "Scientific Method",
+        "subject": "Science",
+        "content": "Scientists use the scientific method, a systematic approach, to investigate and answer questions through observation, hypothesis testing, and analysis.",
+        "img": "scientific_method.jpg"
+    },
+    {
+        "title": "Advancement of Knowledge",
+        "subject": "Science",
+        "content": "Science contributes to the accumulation of knowledge, leading to technological advancements, medical breakthroughs, and a deeper understanding of the universe.",
+        "img": "advancement_of_knowledge.jpg"
+    },
+    {
+        "title": "Ethical Considerations",
+        "subject": "Science",
+        "content": "Scientists adhere to ethical principles, ensuring the responsible and ethical use of scientific knowledge and technology for the benefit of society.",
+        "img": "ethical_considerations.jpg"
+    }
+]
